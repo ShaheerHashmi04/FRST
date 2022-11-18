@@ -1,0 +1,13 @@
+div#stuff {
+    border: solid;
+    border-color: green;
+    border-width: 2.5px;
+    text-align: center;
+}
+
+header {
+
+font-size: 25pt;
+text-align: center;
+
+}
